@@ -19,6 +19,7 @@ main{
     text-align: center;
     padding: 1em 1em 1.5em 1em;
     margin: 5em 1.5em 0.5em 1.5em;
+    width: 340px;
 }
 
 .container img{
@@ -31,6 +32,7 @@ h1{
     color: hsl(218, 44%, 22%);
     background-color: hsl(0, 0%, 100%);
     margin-bottom: 0;
+    width: 285px;
 }
 
 p {
@@ -39,14 +41,9 @@ p {
     background-color: hsl(0, 0%, 100%);
     padding-left: 1em;
     padding-right: 1em;
+    width: 285px;
 }
 
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(218, 44%, 22%); }
-
-@media only screen and (min-width: 1440px) {
-.container{
-      width: 20%; 
-  }
-}
