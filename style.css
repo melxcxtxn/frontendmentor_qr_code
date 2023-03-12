@@ -18,7 +18,7 @@ main{
     justify-content: space-evenly;
     text-align: center;
     padding: 1em 1em 1.5em 1em;
-    margin: 5em 1.5em 5em 1.5em;
+    margin: 5em 1.5em 0.5em 1.5em;
 }
 
 .container img{
@@ -44,3 +44,9 @@ p {
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(218, 44%, 22%); }
+
+@media only screen and (min-width: 1440px) {
+.container{
+      width: 20%; 
+  }
+}
