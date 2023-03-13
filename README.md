@@ -17,13 +17,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![My solution](solution_screenshot.png)
+My solution:
+![My solution](images/solution_screenshot.png)
+
+Original Design preview:
 ![Original Design preview](./design/desktop-preview.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/melxcxtxn/frontendmentor_qr_code)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://github.com/melxcxtxn/frontendmentor_qr_code)
+- Live Site URL: [My solution](https://melxcxtxn.github.io/frontendmentor_qr_code/)
 
 ## My process
 
